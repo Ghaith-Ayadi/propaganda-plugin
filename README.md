@@ -10,3 +10,5 @@ The Claude plugin for [Propaganda](https://propaganda.pub): say "blog about this
 Or add Propaganda as a custom connector in Claude with this address: `https://app.propaganda.pub/worker/v1/mcp`.
 
 The plugin is in [propaganda/](propaganda/README.md): setup, examples, the tools and the privacy policy.
+
+MIT licensed: see [LICENSE](LICENSE). The license covers this repository only, not the Propaganda service it connects to.

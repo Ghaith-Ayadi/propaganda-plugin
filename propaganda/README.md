@@ -48,3 +48,7 @@ The full policy, covering collection, use, storage, sharing, retention and how t
 ## Support
 
 Write to [hello@propaganda.pub](mailto:hello@propaganda.pub).
+
+## License
+
+MIT: see [LICENSE](LICENSE).

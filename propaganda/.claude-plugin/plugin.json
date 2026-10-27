@@ -8,6 +8,7 @@
   },
   "homepage": "https://propaganda.pub",
   "repository": "https://github.com/Ghaith-Ayadi/propaganda-plugin",
+  "license": "MIT",
   "keywords": [
     "blog",
     "writing",

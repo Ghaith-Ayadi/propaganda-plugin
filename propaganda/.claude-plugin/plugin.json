@@ -1,6 +1,6 @@
 {
   "name": "propaganda",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Put posts on your Propaganda blog from Claude: say \"blog about this\" and the Writer drafts it in your voice, for your review.",
   "author": {
     "name": "Propaganda",
